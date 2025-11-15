@@ -1,0 +1,4 @@
+cid,smiles,LogP,logS,Lipinski,hERG
+1,CCO,2.5,-3.0,yes,++
+2,CCCC,4.2,-5.0,no,+++
+3,CCN,0.8,-2.0,yes,+
